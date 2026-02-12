@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello, World!
+# Hello, World, <3 Emily!
 
 Welcome to my website — built from scratch during **National Apprenticeship Week 2026**.
 
